@@ -1,3 +1,4 @@
 .idea/
-models/
+model/
 __pycache__/
+data/tfrecords
